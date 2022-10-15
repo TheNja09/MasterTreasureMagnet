@@ -4,4 +4,4 @@ assets:
   method: copy
   source:
   - name: mastertreasuremagnet.lua
-title: Mini Mushroom
+title: M. Treasure Magnet
