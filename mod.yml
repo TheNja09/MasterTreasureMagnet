@@ -1,0 +1,7 @@
+assets:
+#Lua Scripts
+- name: scripts/mastertreasuremagnet.lua
+  method: copy
+  source:
+  - name: mastertreasuremagnet.lua
+title: Mini Mushroom
