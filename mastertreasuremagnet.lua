@@ -34,5 +34,5 @@ function Events(M,B,E) --Check for Map, Btl, and Evt
 end
 
 function Cheats()
-WriteFloat(0x2A20EA0, 5000)
+WriteFloat(0x24BC952, 7500)
 end
