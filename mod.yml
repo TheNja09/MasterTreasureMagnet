@@ -2,7 +2,7 @@ title: Master Treasure Magnet
 description: This mod gives Sora the equivalent of having an insane amount of Draw abilities on for free! Please note that having extra draws will not stack with the mod.
 assets:
 #Lua Scripts
-- name: scripts/mastertreasuremagnet.lua
+- name: scripts/F266B00B mastertreasuremagnet.lua
   method: copy
   source:
-  - name: mastertreasuremagnet.lua
+  - name: F266B00B mastertreasuremagnet.lua
